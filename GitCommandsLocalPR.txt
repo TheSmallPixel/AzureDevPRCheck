@@ -4,3 +4,5 @@ Check pr GIT azure dev ops:
 git ls-remote origin refs/pull/*
 git fetch origin refs/pull/3365/merge
 git checkout FETCH_HEAD or git checkout FETCH_HEAD --force
+
+git checkout master //close
